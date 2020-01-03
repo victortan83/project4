@@ -1,0 +1,7 @@
+# **This project aims to use Natural Language Processing (NLP) to analyse Hotel reviews. 
+
+## Scope of this notebook:
+### 1) EDA, data pre-processing
+### 2) visualization to get some meaningful insights 
+### 3) unsupervised classification on review texts
+### 4) supervised learning to predict ratings
